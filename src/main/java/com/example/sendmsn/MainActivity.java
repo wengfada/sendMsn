@@ -30,6 +30,7 @@ public class MainActivity extends Activity {
 		et_content = (EditText) findViewById(R.id.et_content);
 		send = (Button) findViewById(R.id.send);
 		send = (Button) findViewById(R.id.send);
+		send = (Button) findViewById(R.id.send);
 		send.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
