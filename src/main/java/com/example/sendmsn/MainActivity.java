@@ -31,6 +31,8 @@ public class MainActivity extends Activity {
 		send = (Button) findViewById(R.id.send);
 		send = (Button) findViewById(R.id.send);
 		send = (Button) findViewById(R.id.send);
+		send = (Button) findViewById(R.id.send);
+		send = (Button) findViewById(R.id.send);
 		send.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
